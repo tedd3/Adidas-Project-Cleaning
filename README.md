@@ -1,2 +1,3 @@
 # Adidas-Project-Cleaning
 Using Python for cleaning and adjust database
+This repository contains a Python script for analyzing sales data using pandas. It loads sales data from an Excel file, performs various data manipulations and calculations, and generates insights based on the data. The script provides an overview of the data, sets appropriate data types, creates additional columns for quarter and year, extracts gender and product type information, calculates average operating margin, determines profit efficiency, drops unnecessary columns, and displays the final cleaned and analyzed data.
